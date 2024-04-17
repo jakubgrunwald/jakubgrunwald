@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Tabelau and PSQL**
 
 - 📫 You can reach me here **jakub.grunwald@int.pl**
-
+- Looking to collaborate on data projects
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
