@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning **Tabelau and PSQL**
 
-- 📫 You can reach me here **jakub.grunwald@int.pl**
+- 📫 Here you can send me a message **jakub.grunwald@int.pl**
 - Looking to collaborate on data projects
 
